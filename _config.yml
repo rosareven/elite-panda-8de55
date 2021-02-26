@@ -78,3 +78,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://elite-panda-8de55.netlify.app'
