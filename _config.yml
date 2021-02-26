@@ -60,11 +60,7 @@ footer:
     href="https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer"
     target="_blank" rel="noopener">now</a>
   links:
-    - label: >-
-        <span>Photo by <a
-        href="https://unsplash.com/@bryanmillarwalker?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Bryan
-        Walker</a> on <a
-        href="https://unsplash.com/s/photos/arctic-fox?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+    - label: Photo by Bryan Walker on Unsplash
       url: 'https://unsplash.com/@bryanmillarwalker'
       style: link
       icon_class: dev
