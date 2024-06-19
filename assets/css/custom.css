@@ -1,0 +1,26 @@
+body {
+	font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+	font-size: 2rem;
+}
+
+.theme--dark a:hover{
+color: #d37caa;
+}
+
+.theme--dark .post__footer {
+	border-bottom: 1px solid #d37caa;
+}
+
+.theme--dark .nav__link--active {
+	color: #d37caa;
+	border-bottom: 1px solid #d37caa;
+}
+
+.theme--dark .sidebar {
+	margin-right: 4px;
+	border-right: 1px solid #d37caa;
+}
+
+.theme--dark .post__content a {
+	color: #d37caa;
+}
